@@ -2,7 +2,7 @@
 
 Follow a molecular cloud collapsing into a massive star.
 
-This is the standalone GitHub Pages build of the `star_formation` applet from the [physics_demos source collection](https://github.com/MartinAlvarezSergio/physics_demos).
+This is the standalone GitHub Pages build of the `star_formation` applet from the local `physics_demos` source collection.
 
 Live: https://martinalvarezsergio.github.io/star_formation_playground/
 
